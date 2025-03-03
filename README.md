@@ -1,9 +1,9 @@
-# Air Force Squadron 🚀
+# Air Force Mission Assets 🚀
 
-Welcome to the **Air Force Squadron**, a C++ project designed to showcase Object-Oriented Programming (OOP) concepts and explore advanced software design techniques. This project includes two major parts, both focusing on different aspects of OOP, to help deepen understanding and demonstrate practical applications in a real-world-like scenario.
+Welcome to the **Air Force Mission Assets**, a C++ project designed to showcase Object-Oriented Programming (OOP) concepts and explore advanced software design techniques. This project includes two major parts, both focusing on different aspects of OOP, to help deepen understanding and demonstrate practical applications in a real-world-like scenario.
 
 📝 **Description**  
-The **Air Force Squadron** project is a combination of two smaller projects that work together to manage military aircraft and flight operations. The first part of the project focuses on diamond inheritance and multiple classes, tackling the complexities of aircraft hierarchy and crew management. The second part utilizes design patterns like Singleton and Template classes, alongside STL containers like `vector`, `map` and `set`, to manage fleet data and operations effectively.
+The **Air Force Mission Assets** project is a combination of two smaller projects that work together to manage military aircraft and flight operations. The first part of the project focuses on diamond inheritance and multiple classes, tackling the complexities of aircraft hierarchy and crew management. The second part utilizes design patterns like Singleton and Template classes, alongside STL containers like `vector`, `map` and `set`, to manage fleet data and operations effectively.
 
 ✨ **Key Features**  
 
